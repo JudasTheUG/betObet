@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="betObet.jnlp">
+  <information>
+    <title>betObet</title>
+    <vendor>JudasTheUG</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="betObet.jar" size="75191" download="eager" />
+  </resources>
+  <application-desc main-class="neverLand.workTime"  name="betObet" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
